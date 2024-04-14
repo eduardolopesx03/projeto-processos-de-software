@@ -1,0 +1,18 @@
+Equipe: Eduardo Lopes de Cerqueira, João Bruno Reis, Tauan Gramacho 
+
+
+Qual a ideia do software? Que problemas o seu software resolve?
+Nossa ideia de projeto é desenvolver um software que atenda às necessidades de nutricionistas que ainda usam papel para armazenar informações dos seus clientes. A aplicação terá funcionalidades básicas, como cadastro de clientes, armazenamento de dietas e histórico de informações.
+O objetivo do software é resolver o problema de organização e dificuldade de acesso às informações dos clientes, proporcionando ao nutricionista um melhor controle das informações e um atendimento mais eficiente e personalizado.
+
+
+É possível ser feito até o último dia de aula?
+Considerando o prazo final do projeto até o último dia de aula, nós precisaremos trabalhar em equipe com disciplina e foco, além de fazer um planejamento cuidadoso e organizado para que o software seja desenvolvido a tempo.
+
+
+A equipe dispõe de recursos?
+Para desenvolver o software, nossa equipe precisará de recursos como computadores, acesso à internet e conhecimento em programação web e banco de dados. Dependendo do escopo do projeto, pode ser necessário contratar serviços externos, como hospedagem e domínio de internet.
+
+
+Há interesse social no tema do projeto?
+O tema do projeto é muito relevante socialmente, uma vez que a digitalização dos processos pode trazer benefícios para a saúde dos pacientes atendidos pelos nutricionistas e contribuir para a preservação do meio ambiente ao reduzir a necessidade de uso de papel. Nós estamos motivados em trabalhar em um projeto que tem um impacto positivo na sociedade.
